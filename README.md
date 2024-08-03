@@ -6,4 +6,6 @@
 #The next one is ResNet50, then MobileNetV2 and Lastly InceptionV3
 #The next segments are our Ensemble model and gradio for an interactive interface to test each model
 
+#Please Note, All code underneath the Gradio Segment should not be run. Those are earlier tested keras models that had poor performance
+
 #Made with Ajay Sohi and Justin Chiu
